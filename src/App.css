@@ -30,12 +30,14 @@ div input {
   padding-left: 22px;
 }
 
-div .btn{
-  height: 45px;
-  width: 78px;
-  margin-left: 15px;
-  border-radius: 8px;
-  border: 1px solid blueviolet;
+div .btn {
+	height: 50px;
+	width: 78px;
+	margin-left: 15px;
+	border-radius: 8px;
+	border: 1px solid blueviolet;
+	position: relative;
+	top: -3px;
 }
 
 div .btn:hover {
